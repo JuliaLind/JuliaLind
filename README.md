@@ -2,7 +2,7 @@
 
 🌱 I’m currently studying my first year of the 3-year Webprogramming course at Linnéuniversitet.  
 
-I have previously studied Webprogramming at Blekinge Tekniska Högskola (almost two years) where I learned Python, PHP, Javascript and SQL (MariaDB).
+I have previously studied Webprogramming at Blekinge Tekniska Högskola where I learned Python, PHP, Javascript and SQL (MariaDB).
 
 <!--
 **JuliaLind/JuliaLind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
