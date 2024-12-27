@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌱 I’m currently studying my first year of the 3-year webprogramming program at Linnéuniversitet.  
+🌱 I’m currently studying my first year of the 3-year Webprogramming course at Linnéuniversitet.  
 
 I have previously studied Webprogramming at Blekinge Tekniska Högskola (almost two years) where I learned Python, PHP, Javascript and SQL (MariaDB).
 
